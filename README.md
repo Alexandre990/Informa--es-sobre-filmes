@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Projeto é um buscador de filmes e séries. No qual traz algumas informações sobre o filme ou séries que foi procurado pelo usuário. Alguns dados como a sua nota, o ano que foi estreado e o tempo de duração.
+No desenvolvimento deste projeto foi consumida uma API que traz as informações sobre os conteúdos pesquisados.
 
 ---
 
